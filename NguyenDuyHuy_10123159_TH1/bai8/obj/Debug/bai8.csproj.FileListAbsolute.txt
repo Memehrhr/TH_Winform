@@ -1,0 +1,10 @@
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai8\bin\Debug\bai8.exe.config
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai8\bin\Debug\bai8.exe
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai8\bin\Debug\bai8.pdb
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai8\obj\Debug\bai8.csproj.AssemblyReference.cache
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai8\obj\Debug\bai8.Form1.resources
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai8\obj\Debug\bai8.Properties.Resources.resources
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai8\obj\Debug\bai8.csproj.GenerateResource.cache
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai8\obj\Debug\bai8.csproj.CoreCompileInputs.cache
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai8\obj\Debug\bai8.exe
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai8\obj\Debug\bai8.pdb

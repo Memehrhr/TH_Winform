@@ -1,0 +1,10 @@
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai1(mau)\bin\Debug\bai1(mau).exe.config
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai1(mau)\bin\Debug\bai1(mau).exe
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai1(mau)\bin\Debug\bai1(mau).pdb
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai1(mau)\obj\Debug\bai1(mau).csproj.AssemblyReference.cache
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai1(mau)\obj\Debug\bai1_mau_.FrmBai1_1.resources
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai1(mau)\obj\Debug\bai1_mau_.Properties.Resources.resources
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai1(mau)\obj\Debug\bai1(mau).csproj.GenerateResource.cache
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai1(mau)\obj\Debug\bai1(mau).csproj.CoreCompileInputs.cache
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai1(mau)\obj\Debug\bai1(mau).exe
+D:\filehoctapcuaHuy\Winfrom\WF TH1\bai1(mau)\obj\Debug\bai1(mau).pdb
